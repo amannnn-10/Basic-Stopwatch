@@ -10,6 +10,6 @@ The Stopwatch web application provides basic functionality to start, stop, and r
 
 ## Features
 
-- Start the stopwatch timer
-- Stop the stopwatch timer
-- Reset the stopwatch timer to zero
+- Start the stopwatch timer.
+- Stop the stopwatch timer.
+- Reset the stopwatch timer to zero.
